@@ -48,4 +48,10 @@ add_executable(untitled main.cpp
         "seminar_tasks/seminar_2/seminar_3/task A/main.cpp"
         "seminar_tasks/seminar_2/seminar_3/task B/main.cpp"
         "seminar_tasks/seminar_2/seminar_3/task D/main.cpp"
+        "prep for ex/demo/A/main.cpp"
+        "prep for ex/demo/B/main.cpp"
+        "prep for ex/variant_1/A/main.cpp"
+        "prep for ex/demo/C/main.cpp"
+        "prep for ex/variant_1/C/main.cpp"
+        "prep for ex/variant_1/B/main.cpp"
 )
